@@ -11,7 +11,6 @@ Calculadora básica desenvolvida com HTML e CSS.
 - Qualquer ferramenta de teste em HTML e CSS
 
   - [CodePen](https://codepen.io/)
-  - [Notepad++](https://notepad-plus-plus.org/)
   - [Sublime Text](https://www.sublimetext.com/)
   - [Visual Studio Code](https://code.visualstudio.com/)
 
