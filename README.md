@@ -28,4 +28,4 @@ Calculadora básica desenvolvida com HTML e CSS.
 
 ### Link para o projeto
 
-"#"
+https://mattigor.github.io/calculadora-basica/
