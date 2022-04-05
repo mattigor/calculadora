@@ -1,4 +1,4 @@
-## Projeto calculadora
+## Projeto calculadora-basica
 
 > Status: Finalizado
 
