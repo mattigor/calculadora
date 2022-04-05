@@ -4,7 +4,7 @@
 
 ## Sobre o projeto
 
-Calculadora básica desenvolvida em HTML.
+Calculadora básica desenvolvida com HTML e CSS.
 
 ## Pré-requisitos
 
@@ -20,6 +20,7 @@ Calculadora básica desenvolvida em HTML.
 ### Front-end
 
  - [HTML5](https://devdocs.io/html/)
+ - [CSS3](https://devdocs.io/css/)
 
 ### Desenvolvido por
 
