@@ -11,8 +11,9 @@ body {
   inset -5px -5px 3px #C0DEED;
 }
 
-.container {
-  padding-top: 150px;
+.card {
+  display: grid;
+  place-items: center;
 }
 
 .calc {
